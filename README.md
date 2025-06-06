@@ -8,11 +8,11 @@ Ein ESX-Skript, das Homeland-Spielern erlaubt, durch den Befehl `/pblips` **Live
 
 ## 🚀 Installation
 
-1. Ordner `esx_pblips_local` in deinen `resources`-Ordner verschieben.
+1. Ordner `4L_Admin_Blips` in deinen `resources`-Ordner verschieben.
 2. In die `server.cfg` eintragen:
 
 ```
-ensure esx_pblips_local
+ensure 4L_Admin_Blips
 ```
 
 3. Nur Spieler mit dem Job `Homeland` können `/pblips` verwenden.
