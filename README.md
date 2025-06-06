@@ -23,6 +23,3 @@ ensure esx_pblips_local
 - Funktioniert über Entfernungen hinweg.
 - Entfernt alle Blips bei Deaktivierung automatisch.
 
-## ✅ Lizenz
-
-MIT
