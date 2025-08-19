@@ -1,6 +1,6 @@
 # 4L_Admin_Blips
 
-Ein ESX-Skript, das Homeland-Spielern erlaubt, durch den Befehl `/pblips` **Live-Blips** aller anderen Spieler **nur auf ihrer eigenen Karte** zu sehen.
+Ein ESX-Skript, das Homeland-Spielern erlaubt, durch den Befehl `/playerblips` **Live-Blips** aller anderen Spieler **nur auf ihrer eigenen Karte** zu sehen.
 
 ## 🧰 Abhängigkeiten
 
